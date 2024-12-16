@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luqmannnn/ecs-fargate.git"
+    "url": "git+https://github.com/khaizer69/ecs-fargate.git"
   },
-  "author": "luqman",
+  "author": "khai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luqmannnn/ecs-fargate/issues"
+    "url": "https://github.com/khaizer69/ecs-fargate/issues"
   },
-  "homepage": "https://github.com/luqmannnn/ecs-fargate#readme",
+  "homepage": "https://github.com/khaizer69/ecs-fargate#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
