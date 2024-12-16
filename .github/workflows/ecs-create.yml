@@ -27,7 +27,7 @@ jobs:
       # - name: Login to ECR
       #   run: aws ecr get-login-password --region ${REGION} | docker login --username AWS --password-stdin ${ECR_ENDPOINT}
 
-      # - name: Docker build, tag and push to ECR
+      # - name: Docker build, tag and push to ECR now
       #   run: |
       #     docker build -t ${IMAGE_NAME} .
       #     docker tag ${IMAGE_NAME}:latest ${ECR_ENDPOINT}/${IMAGE_NAME}:latest
